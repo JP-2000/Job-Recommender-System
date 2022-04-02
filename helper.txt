@@ -1,0 +1,59 @@
+
+preferred location
+experience - Job Title, Company Name, Start Date, End Date , Job Description 
+skills - 10
+education - Collage Name, Percentage, Graduate/PostGraduate DegreeName
+language - 5
+date of birth
+linkedin Id
+User Id
+{
+    preferred location:
+    languge: {
+        language1:
+        laguage2:
+    }
+}
+{
+    "prefloc":"mumbai",
+    "exp":[["Job Title", "Company Name", "Start Date", "End Date" , "Job Description"],["JKsds","sdsdsdsss","2018/2/20","2023/6/14","ddsds"]],
+    "skills":["dart","stonks","phoenix"],
+    "edu":[["Birla",90.5,"BE"],["sabu siddique",70,"BE"]],
+    "lang":["marathi","japanese","korean"],
+    "dob":"3/10/2000",
+    "linkedin":"dhdsads",
+}
+
+"exp" :[
+    {
+        jobTitle:
+        companyName:
+
+    },
+    {
+
+    }
+]
+{
+    prefloc: mumbai, 
+    exp: [
+        {
+            jobTitle: q, 
+            companyName: qq, 
+            startDate: 29/01/2022, 
+            endDate: 27/01/2022, 
+            jobDescription: qqq
+        }
+    ], 
+    skills: [qq, ds], 
+    edu: [
+        {
+            collegeName: wwwww, 
+            degree: wwwwww, 
+            percentage: wwwwwww
+        }
+    ], 
+    lang: [www], 
+    dob: 29/01/2022, 
+    linkedin: wwwww
+}
